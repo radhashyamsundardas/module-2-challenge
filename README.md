@@ -1,5 +1,6 @@
 Name
-This is the first assignment as a web developer.
+HIREN PATEL
+This is my first assignment as a web developer.
 
 Description
 This project is about company name HORISEON which helps in search engine optimization, online reputation management and social media marketing.
